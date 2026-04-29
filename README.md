@@ -1,4 +1,4 @@
-# React Redux Assignments
+# Frontend Developer Assignments
 
 A monorepo containing two assignments built with React ecosystem tools.
 
